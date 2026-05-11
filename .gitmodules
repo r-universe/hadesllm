@@ -4,6 +4,11 @@
 	branch = HEAD
 [submodule "moirais"]
 	path = moirais
-	url = https://github.com/hadesllm/moirais
+	url = https://github.com/hadesllm/morie
 	branch = main
 	subdir = r-package/moirais
+[submodule "morie"]
+	path = morie
+	url = https://github.com/hadesllm/morie
+	branch = main
+	subdir = r-package/morie
